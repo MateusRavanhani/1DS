@@ -1,0 +1,15 @@
+Pesquisa em dupla e postagem no teams.
+
+
+Ambiente Linux: da Máquina Virtual à Automação de Tarefas
+
+Laboratório em sistemas operacionais:
+• Criação e execução de máquinas virtuais;
+• Linha de comando;
+• Navegação básica;
+• Manipulação de arquivos;
+• Pipes, redirecionamentos e filtros;
+• Permissões;
+• Execução de comandos em lote;
+• Processos;
+• Utilização de interface gráfica

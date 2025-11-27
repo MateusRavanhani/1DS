@@ -1,0 +1,8 @@
+Exercícios LINUX 13/08/2025
+
+1.Ls-la > fundamentos
+2. Date >> fundamentos
+3.Echo "Olá Mundo" > fundamentos
+4. Cat < fundamentos
+5.ls-la |more
+6.pwd |tee more

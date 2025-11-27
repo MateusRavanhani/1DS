@@ -1,0 +1,17 @@
+1 - Crie uma estrutura de diretórios chamada projetos com subpastas frontend e backend.
+2 - Acesse a pasta backend criada anteriormente.
+3 - Crie um arquivo chamado api.txt dentro da pasta backend.
+4 - Escreva a frase "Servidor iniciado com sucesso" dentro de api.txt.
+5 - Exiba o conteúdo do arquivo api.txt.
+6 - Liste os arquivos da pasta projetos com detalhes como permissões e data.
+7 - Mova o arquivo api.txt da pasta backend para frontend.
+8 - Crie um arquivo index.html com três linhas de texto.
+9 - Procure pela palavra "Linha" dentro do arquivo index.html.
+10 - Liste os arquivos da pasta atual ordenados por data de modificação.
+11 - Crie um diretório chamado .config_local dentro de projetos.
+12 - Copie o arquivo index.html para dentro da pasta .config_local.
+13- Exiba apenas os arquivos da pasta projetos.
+14 - Conte quantas linhas existem no arquivo index.html.
+15 - Exiba os cinco primeiros caracteres do conteúdo de index.html.
+16 - Apague o arquivo api.txt
+17 - Apague a pasta backend

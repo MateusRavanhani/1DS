@@ -1,0 +1,4 @@
+Pesquisa escrita
+
+Realize uma pesquisa escrita sobre BIOS, descreva o que é, explique o funcionamento e fale sobre: BIOS, CMOS e POST. 
+Essa pesquisa deverá ficar no caderno e será vistada

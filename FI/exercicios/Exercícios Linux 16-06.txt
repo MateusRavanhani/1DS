@@ -1,0 +1,17 @@
+Exercícios Linux
+
+1-date 
+2-pwd
+3-ls
+4-mkdir vestibulinho, mkdir info, mkdir ds
+5-cd vestibulinho
+6-mkdir semestre1 semestre2
+7-cd semestre1
+8-touch passei -> echo "Aprovado" > passei
+9-cd .. , cd semestre2
+10-touch reprovei -> echo "Não foi dessa vez!" > Reprovei
+11-cat reprovei
+12-cd .. -> cd semestre1 -> cat passei
+13-cp reprovei /home/etec/vestibulinho/semestre1/
+14-rm reprovei
+15-rm -r semestre2

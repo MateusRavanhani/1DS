@@ -1,0 +1,23 @@
+Exercícios práticos Terminal Linux
+
+1 - Verifique o diretório onde você está
+	PWD
+2 - Verifique a data atual
+	DATE
+3 - Altere a data e hora do sistema para 03/06/2025 19h00
+	SUDO DATE -S "ano-mês-dia horário"
+4 - Volte para a raiz /
+	CD /
+5 - Liste os arquivos de forma completa
+	LS -L
+6 - Crie um arquivo com o nome teste e explique o resultado desse comando
+	SUDO TOUCH TESTE
+	TOUCH TEST
+7 - Volte para a pasta do usuário /home/etec
+	CD ~
+8 - Limpe a tela
+	CLEAR
+9 - Crie um arquivo com o nome teste
+	TOUCH TESTE
+10 - Liste os arquivos de forma completa
+	LS -L
