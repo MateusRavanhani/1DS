@@ -1,0 +1,14 @@
+TOMAR BANHO
+1- pego a toalha
+2-abrir a porta do banheiro
+3-tirar a roupa
+4-ligar o chuveiro
+5-pego o sabonete
+6- ensaboar-se
+7- se enxaguar
+8- desligar o chuveiro
+9- se secar
+10-sair do banheiro
+11- colocar uma roupa
+
+					ACABOU!!!!!

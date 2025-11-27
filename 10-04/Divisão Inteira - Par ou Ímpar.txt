@@ -1,0 +1,11 @@
+Divisão Inteira -> Par ou Ímpar
+
+	Dividendo		Divisor
+	   20			   2
+resto ->    0                     10    <- Quociente
+
+Se sobrar resto   -> Ímpar
+Se resto for zero -> Par
+
+Cálculo do Resto da Divisão Inteira
+Resto = Dividendo % 2 -> 0 ou 1
