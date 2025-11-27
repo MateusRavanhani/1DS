@@ -1,0 +1,9 @@
+DESENVOLVA UM ALGORITMO QUE SIMULE UM MENU DE RESTAURANTE QUE RECEBA UM DETERMINADO NÚMERO ENTRE 1 A 7 E MOSTRE O RESPECTIVO PRATO. EM SEGUIDA O SISTEMA IRÁ VERIFICAR SE O VALOR FOR ACIMA DE 800 O PAGAMENTO SERÁ EM 2 VEZES NO CARTÃO, SENÃO SERÁ A VISTA OU PIX DO VALOR TOTAL
+Exemplo:
+1 - Costela Black Angus – R$ 590
+2 - Menu Omakase – R$ 1.400
+3 - Vieira marinada – R$ 945
+4 - Boudin de foie gras – R$ 945
+5 - Cherne com caviar – R$ 945
+6 - Menu degustação brasileiro – R$ 850
+7 - Menu degustação sazonal – R$ 790
